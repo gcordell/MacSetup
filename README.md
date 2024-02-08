@@ -11,4 +11,4 @@ Non-Auto Install Apps:
 - LogiTune
 - AltTab
 - Cambrionix Connect
-- 
+- SoundSource!
